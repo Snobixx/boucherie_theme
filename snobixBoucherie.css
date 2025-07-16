@@ -2685,9 +2685,9 @@ code {
   background:var(--hsl-card-shading);
   border:none
 }
-:is(.mentionLimitContainer_ed9c90,.keywordListContainer__09e76,.actionContainer__6446f) {
+/* :is(.mentionLimitContainer_ed9c90,.keywordListContainer__09e76,.actionContainer__6446f) {
   background:var(--background-mod-subtle)
-}
+} */
 .keywordsTextArea__6a631 {
   background:var(--hsl-input-shading);
   border-color:var(--hsl-input-border-shading)
